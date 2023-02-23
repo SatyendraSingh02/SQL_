@@ -1,5 +1,3 @@
-# #8weeksqlchallenge
-The 8 Week SQL Challenge is proudly brought to you by the Data With Danny virtual data apprenticeship program to celebrate the launch of the Serious SQL course!
 ## Case_Study_1
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 
