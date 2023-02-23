@@ -118,6 +118,7 @@ where item_rank=1;
 		"B"			"curry"			2
 		"B"			"ramen"			2
 		"C"			"ramen"			3		*/
+		
 	
 --Query-6-Which item was purchased first by the customer after they became a member?
 
@@ -137,6 +138,7 @@ where item_rank=1;
 /*"customer_id"	"product_name"	"join_date"	   "order_date"
 	 "A"			"curry"		"2021-01-07"   "2021-01-07"
 	 "B"			"sushi"		"2021-01-09"   "2021-01-11" */
+	 
 	 
 
 --Query-7-Which item was purchased just before the customer became a member?
@@ -158,6 +160,7 @@ where item_rank=1;
 	"A"			"sushi"			"2021-01-07"	"2021-01-01"
 	"A"			"curry"			"2021-01-07"	"2021-01-01"
 	"B"			"sushi"			"2021-01-09"	"2021-01-04"*/
+
 
 --Query-8-What is the total items and amount spent for each member before they became a member?
 
